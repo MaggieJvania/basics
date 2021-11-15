@@ -10,6 +10,7 @@ student1:
     - 'louie'
     - 'fred'
     - 'eagle'
+    - 'sparrow'
 
 credentials:
   url: "https://www.google.com"
